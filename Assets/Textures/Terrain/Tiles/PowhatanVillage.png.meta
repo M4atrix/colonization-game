@@ -3,8 +3,8 @@ guid: f3c7419c17984887b1dc8ce846f2023e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5358572890542330587
-    second: FreeColonists_0
+      213: -2147196045450833616
+    second: hexWetlandsStiltVillage00 11_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -49,8 +49,8 @@ TextureImporter:
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.34}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FreeColonists_0
+      name: hexWetlandsStiltVillage00 11_0
       rect:
         serializedVersion: 2
-        x: 215
-        y: 92
-        width: 338
-        height: 808
+        x: 28
+        y: 41
+        width: 204
+        height: 211
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd250db27a97d5a40800000000000000
-      internalID: 5358572890542330587
+      spriteID: 03197cfa290a332e0800000000000000
+      internalID: -2147196045450833616
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FreeColonists_0: 5358572890542330587
+      hexWetlandsStiltVillage00 11_0: -2147196045450833616
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
